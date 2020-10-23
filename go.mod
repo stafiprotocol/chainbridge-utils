@@ -9,6 +9,6 @@ require (
 	github.com/kr/pretty v0.2.0 // indirect
 	github.com/prometheus/client_golang v1.4.1
 	github.com/prometheus/procfs v0.0.10 // indirect
-	github.com/stafiprotocol/go-substrate-rpc-client v1.0.1
+	github.com/stafiprotocol/go-substrate-rpc-client v1.0.2
 	golang.org/x/crypto v0.0.0-20200820211705-5c72a883971a
 )
